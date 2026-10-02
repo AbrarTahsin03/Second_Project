@@ -9,6 +9,7 @@ int main()
     cin.tie(nullptr);
 
     cout << "Hello" << nl;
+    cout << "Hello World" << nl;
 
     return 0;
 }
